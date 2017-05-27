@@ -1,3 +1,7 @@
-commit
-commit
-commit
+cygwinインストール
+
+参照サイト：
+http://dev.toppers.jp/trac_user/ev3pf/wiki/DevEnvWin
+setファイル：setup-x86_64.exe
+
+セットアップは詳しくはWebへ
